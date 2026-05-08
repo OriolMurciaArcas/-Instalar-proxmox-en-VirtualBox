@@ -1,15 +1,15 @@
 # Instalar-proxmox-en-VirtualBox
 1. Configuramos la VM con la iso y los recursos.
    
-<img width="779" height="558" alt="1" src="https://github.com/user-attachments/assets/d7066507-8ea8-41aa-87c6-97a07c280dd9" /&gt;
+<img src="https://github.com/user-attachments/assets/d7066507-8ea8-41aa-87c6-97a07c280dd9" /&gt;
 
-<img width="776" height="552" alt="2" src="https://github.com/user-attachments/assets/915dc267-9006-48ba-a630-2abcf4efac20" /&gt;
+<img src="https://github.com/user-attachments/assets/915dc267-9006-48ba-a630-2abcf4efac20" /&gt;
 
-<img width="779" height="553" alt="3" src="https://github.com/user-attachments/assets/5a885355-5717-4c35-b6c2-b26daebd0995" /&gt;
+<img src="https://github.com/user-attachments/assets/5a885355-5717-4c35-b6c2-b26daebd0995" /&gt;
 
 3. Usamos adaptador puente para poder tener conexión con el host.
    
-<img width="809" height="514" alt="4" src="https://github.com/user-attachments/assets/63e1812e-ecc3-4ea8-ac9a-4b2c17f2e629" /&gt;
+<img src="https://github.com/user-attachments/assets/63e1812e-ecc3-4ea8-ac9a-4b2c17f2e629" /&gt;
 
 5. Activamos PAE/NX y Nested VT-x/AMD-v
    
